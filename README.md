@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This script helps you check which GitHub users you follow but who haven't followed you back. It uses GitHub's API to fetch your **following** and **followers** list and compares them.
+This script helps you identify GitHub users you follow who aren’t following you back. By leveraging GitHub’s API, it retrieves your **followers** and **following** lists, compares them, and highlights the accounts that haven’t returned the follow. It’s a simple way to keep track of one-way connections on your GitHub network..
 
 ## Requirements
 
